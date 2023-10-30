@@ -1,0 +1,52 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.eletrocarsystem.com" resolutions="1x" timestamp="1513306276413">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="4272619433" ref="pedidos:index"/>
+    <file name="master_mestre-pedido.css" crc="4216870159" ref="dados-do-pedido"/>
+    <file name="dados-do-pedido.css" crc="3853272021" ref="dados-do-pedido"/>
+    <file name="pedidos.css" crc="477936445" ref="pedidos"/>
+    <file name="index.css" crc="292243906" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pedidos:dados-do-pedido"/>
+    <file name="museutils.js" crc="163421577" ref="index:pedidos:dados-do-pedido"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pedidos:dados-do-pedido"/>
+    <file name="museconfig.js" crc="168988563" ref="index:pedidos:dados-do-pedido"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:pedidos:dados-do-pedido"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:pedidos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:pedidos:dados-do-pedido"/>
+    <file name="require.js" crc="244322403" ref="index:pedidos:dados-do-pedido"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3782874197" seo="true" ref="index:pedidos:dados-do-pedido"/>
+    <file name="arrowmenudown-u556.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u556-r.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u556-a.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1190.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1190-r.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1190-a.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1351.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1351-r.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1351-a.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1438.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1438-r.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1438-a.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1642.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1642-r.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1642-a.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1729.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1729-r.png" crc="470458880" ref="index:pedidos"/>
+    <file name="arrowmenudown-u1729-a.png" crc="470458880" ref="index:pedidos"/>
+    <file name="u1545.png" crc="37673419" ref="index"/>
+    <file name="u1545-r.png" crc="20395292" ref="index"/>
+    <file name="u1874.png" crc="106951869" ref="index"/>
+    <file name="u1874-r.png" crc="222344944" ref="index"/>
+    <file name="u1890.png" crc="265297781" ref="index"/>
+    <file name="u1890-r.png" crc="121012156" ref="index"/>
+    <file name="u1900.png" crc="3822070490" ref="index"/>
+    <file name="u1900-r.png" crc="186964624" ref="index"/>
+  </folder>
+  <file name="index.html" crc="61696549" seo="true" mt="1512100082786" redirect="true"/>
+  <file name="pedidos.html" crc="359801159" seo="true" mt="1513305531530" redirect="true"/>
+  <file name="dados-do-pedido.html" crc="167408501" seo="true" mt="1513306183536" redirect="true"/>
+</manifest>
